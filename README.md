@@ -1,4 +1,4 @@
-<img width="1450" height="815" alt="image" src="https://github.com/user-attachments/assets/ac903eeb-68fc-4f48-bb73-93968437c45c" /># Monitoring Order Progress & Defect Rate for Adventure works - Bike manufacturer using Power BI
+# Monitoring Order Progress & Defect Rate for Adventure works - Bike manufacturer using Power BI
 ![Image](https://github.com/user-attachments/assets/503df5f3-2974-4a08-b4ef-8ce1d0a9408d)
 
 ---
