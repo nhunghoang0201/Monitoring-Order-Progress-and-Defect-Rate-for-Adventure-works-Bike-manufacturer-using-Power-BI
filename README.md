@@ -30,10 +30,10 @@ This project involves 8 tables from the AdventureWorks dataset, including:
 Link database:https://dataedo.com/samples/html/AdventureWorks/doc/AdventureWorks_2/modules/Manufacturing_81/module.html
 #### 2.2. Entity Relationship diagram
 ##### Manufacturing schema
-<img width="793" height="785" alt="image" src="https://github.com/user-attachments/assets/3a7e58b5-70ae-4f0d-9c57-4c9a8b55c5d2" />
+<img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/3a7e58b5-70ae-4f0d-9c57-4c9a8b55c5d2" />
 
 ##### Products schema
-<img width="1074" height="797" alt="image" src="https://github.com/user-attachments/assets/4363e0aa-b485-44f0-a9ce-a4f5cbc5256b" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4363e0aa-b485-44f0-a9ce-a4f5cbc5256b" />
 
 ## 🧠 3. Design Thinking Process  
 #### 1️⃣ 3.1. Empathize
