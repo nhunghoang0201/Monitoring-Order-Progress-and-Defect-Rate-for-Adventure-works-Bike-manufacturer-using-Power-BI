@@ -12,22 +12,22 @@
 ## 📌 1. Background & Overview  
 
 #### 📖 1.1. What is this project about? 
-This project focuses on building a production monitoring dashboard to support manufacturing performance management. The dashboard addresses the key business problem:
+This project focuses on building a production monitoring dashboard to **support manufacturing performance management**. The dashboard addresses the key business problem:
 - Identify key factors causing delays and defects.
 - Support proactive decision-making to reduce delays and ensure on-time delivery.
 
 #### 👤 1.2. Who is this project for?  
-- Primary stakeholder: Production Director – responsible for overall production performance.
-- Indirect users: factory managers, line supervisors, planning & logistics teams.
+- **Primary stakeholder:** Production Director – responsible for overall production performance.
+- **Indirect users:** factory managers, line supervisors, planning & logistics teams.
 
 ## 📂 2. Dataset Description & Data Structure  
 This project involves 8 tables from the AdventureWorks dataset, including:
 
-- Manufacturing schema: Production.BillOfMaterials, Production.ScrapReason, Production.WorkOrder, Production.WorkOrderRouting
+- **Manufacturing schema:** Production.BillOfMaterials, Production.ScrapReason, Production.WorkOrder, Production.WorkOrderRouting
 
-- Product schema: Production.Product, Production.ProductCategory, Production.ProductModel, Production.ProductSubcategory
+- **Product schema:** Production.Product, Production.ProductCategory, Production.ProductModel, Production.ProductSubcategory
 
-Link database:https://dataedo.com/samples/html/AdventureWorks/doc/AdventureWorks_2/modules/Manufacturing_81/module.html
+***Link database:https://dataedo.com/samples/html/AdventureWorks/doc/AdventureWorks_2/modules/Manufacturing_81/module.html***
 #### 2.2. Entity Relationship diagram
 ##### Manufacturing schema
 <img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/3a7e58b5-70ae-4f0d-9c57-4c9a8b55c5d2" />
@@ -58,16 +58,16 @@ Review and improve the report
 ##### Insight 1:
 Production volume peaks in June–August and October–November which Aligh with seasonal demand Summer (outdoor activity, bicycle purchases) & Year-end holidays (Black Friday, Cyber Monday, Christmas, New Year). However, on-time delivery rate remains stable as having xtrong production management during these peak periods.
 
-=> Recommendation: Proactively plan for peak seasons by securing materials and production capacity early.
+=> **Recommendation:** Proactively plan for peak seasons by securing materials and production capacity early.
 
 ##### Insight 2:
 Week 4 average ontime rate is 23.67%, which is the lowest among all weeks as week 4 is for closing activities, inventory, KPI reviews.
-=> Recommendation: Distribute production more evenly across all weeks to reduce overload and delay risks.
+=> **Recommendation:** Distribute production more evenly across all weeks to reduce overload and delay risks.
 
 ##### Insight 3:
   Week 2 & 3 have the highest defect rates, which correlate with production overload in mid-month.
 
-=> Recommendation: Intensify defect controlling & monitoring during Week 2–3.
+=> **Recommendation:** Intensify defect controlling & monitoring during Week 2–3.
 
 ---
 #### 2️⃣ Dashboard 2 On-time rate by Product
@@ -77,7 +77,7 @@ Week 4 average ontime rate is 23.67%, which is the lowest among all weeks as wee
 ##### Insight 1:
 Component has 82.97% of the delayed quantity and have the highest late quantity among categories despite making up only 21.44% of planned volume. Bike has 93.29% delay rate, though only 1.97% of total volume. => **As Component is a material of Bike. Therefore, late component could lead late Bike**
 
-=> Recommendation:
+=> **Recommendation:**
 Increase safety stock for Components.
 Pre-produce Components to ensure timely Bike assembly.
 
@@ -90,19 +90,19 @@ Pre-produce Components to ensure timely Bike assembly.
 ##### Insight 1:
 Component: 1–3 in-house steps. Bike: 1 in-house step. Raw Component: 97.43% have 0 internal steps => **Raw Component is mainly outsourced**
 
-=> Recommendation:
+=> **Recommendation:**
 Source more external vendors with competitive quality and price for Component & Bike.
 Prioritize outsourcing low-complexity items
 
 ##### Insight 2:
 Orders with >1,000 production runs have >92% on-time rate and are mainly Raw Components Orders with <1,000 runs: only 6.46–57.35% on-time => **Increase capability to produce the product when production times increase**
 
-=> Recommendation: Encourage regular, repeat production for suitable items.
+=> **Recommendation:** Encourage regular, repeat production for suitable items.
 
 ##### Insight 3:
 Orders >4,000 units have nearly 100% on-time rate. These are mostly Raw Components. => **Large orders are often better prepared and managed**
 
-=> Recommendation: Consider consolidating smaller orders into larger batches to improve planning and material management
+=> **Recommendation:** Consider consolidating smaller orders into larger batches to improve planning and material management
 
 ---
 
@@ -113,7 +113,7 @@ Orders >4,000 units have nearly 100% on-time rate. These are mostly Raw Componen
 ##### Insight 1: 
 Raw Component has 0.26% delay rate — higher than Component (0.21%) and Bike (0.18%) => **Outsourced vendors may have lower quality control than in-house.**
 
-=> Recommendation:
+=> **Recommendation:**
 - Reallocate to more capable vendors.
 
 - Evaluate vendor performance regularly.
