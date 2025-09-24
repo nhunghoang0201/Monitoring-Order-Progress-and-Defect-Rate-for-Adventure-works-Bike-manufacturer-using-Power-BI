@@ -69,6 +69,7 @@ Week 4 average ontime rate is 23.67%, which is the lowest among all weeks as wee
 
 => Recommendation: Intensify defect controlling & monitoring during Week 2–3.
 
+---
 #### 2️⃣ Dashboard 2 On-time rate by Product
 <img width="1224" height="701" alt="image" src="https://github.com/user-attachments/assets/19eae1d9-db5c-42f7-bf57-2e0a3a50c62f" />
 
@@ -79,6 +80,8 @@ Component has 82.97% of the delayed quantity and have the highest late quantity 
 => Recommendation:
 Increase safety stock for Components.
 Pre-produce Components to ensure timely Bike assembly.
+
+---
 
 #### 3️⃣ Dashboard 3 On-time rate by Work order & Routing
 <img width="1229" height="692" alt="image" src="https://github.com/user-attachments/assets/a58f2329-d74c-4343-97d1-28503124c1e5" />
@@ -101,6 +104,8 @@ Orders >4,000 units have nearly 100% on-time rate. These are mostly Raw Componen
 
 => Recommendation: Consider consolidating smaller orders into larger batches to improve planning and material management
 
+---
+
 #### 4️⃣ Dashboard 4 Defect rate by Product & Work order & Routing
 <img width="1232" height="698" alt="image" src="https://github.com/user-attachments/assets/d101847a-c877-4908-9053-a1d584784179" />
 
@@ -116,6 +121,8 @@ Raw Component has 0.26% delay rate — higher than Component (0.21%) and Bike (0
 - Strengthen output QC for outsourced production.
 
 - Establish periodic vendor quality review criteria.
+
+---
 
 ## 🔎 5. Final Conclusion
 
