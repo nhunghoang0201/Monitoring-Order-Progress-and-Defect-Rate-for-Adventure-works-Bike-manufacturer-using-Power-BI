@@ -75,7 +75,7 @@ Week 4 average ontime rate is 23.67%, which is the lowest among all weeks as wee
 
 
 ##### Insight 1:
-Component has 82.97% of the delayed quantity and have the highest late quantity among categories despite making up only 21.44% of planned volume. Bike has 93.29% delay rate, though only 1.97% of total volume. => As Component is a material of Bike. Therefore, late component could lead late Bike
+Component has 82.97% of the delayed quantity and have the highest late quantity among categories despite making up only 21.44% of planned volume. Bike has 93.29% delay rate, though only 1.97% of total volume. => **As Component is a material of Bike. Therefore, late component could lead late Bike**
 
 => Recommendation:
 Increase safety stock for Components.
@@ -88,19 +88,19 @@ Pre-produce Components to ensure timely Bike assembly.
 
 
 ##### Insight 1:
-Component: 1–3 in-house steps. Bike: 1 in-house step. Raw Component: 97.43% have 0 internal steps => Raw Component is mainly outsourced
+Component: 1–3 in-house steps. Bike: 1 in-house step. Raw Component: 97.43% have 0 internal steps => **Raw Component is mainly outsourced**
 
 => Recommendation:
 Source more external vendors with competitive quality and price for Component & Bike.
 Prioritize outsourcing low-complexity items
 
 ##### Insight 2:
-Orders with >1,000 production runs have >92% on-time rate and are mainly Raw Components Orders with <1,000 runs: only 6.46–57.35% on-time => Increase capability to produce the product when production times increase
+Orders with >1,000 production runs have >92% on-time rate and are mainly Raw Components Orders with <1,000 runs: only 6.46–57.35% on-time => **Increase capability to produce the product when production times increase**
 
 => Recommendation: Encourage regular, repeat production for suitable items.
 
 ##### Insight 3:
-Orders >4,000 units have nearly 100% on-time rate. These are mostly Raw Components. => Large orders are often better prepared and managed
+Orders >4,000 units have nearly 100% on-time rate. These are mostly Raw Components. => **Large orders are often better prepared and managed**
 
 => Recommendation: Consider consolidating smaller orders into larger batches to improve planning and material management
 
@@ -111,7 +111,7 @@ Orders >4,000 units have nearly 100% on-time rate. These are mostly Raw Componen
 
 
 ##### Insight 1: 
-Raw Component has 0.26% delay rate — higher than Component (0.21%) and Bike (0.18%) => Outsourced vendors may have lower quality control than in-house.
+Raw Component has 0.26% delay rate — higher than Component (0.21%) and Bike (0.18%) => **Outsourced vendors may have lower quality control than in-house.**
 
 => Recommendation:
 - Reallocate to more capable vendors.
@@ -126,13 +126,13 @@ Raw Component has 0.26% delay rate — higher than Component (0.21%) and Bike (0
 
 ## 🔎 5. Final Conclusion
 
-- Production Peaks & On-time Delivery: June–August and October–November are high-demand periods; on-time delivery remains stable, but Week 4 is the lowest.
+- **Production Peaks & On-time Delivery:** June–August and October–November are high-demand periods; on-time delivery remains stable, but Week 4 is the lowest.
 
-- Product-Level Risks: Component delays drive Bike delays; pre-production and safety stock are recommended.
+- **Product-Level Risks:** Component delays drive Bike delays; pre-production and safety stock are recommended.
 
-- Work Order & Routing: Small orders and outsourced items have lower on-time rates; large/repeat orders perform better. Consolidate small orders and prioritize low-complexity outsourcing.
+- **Work Order & Routing**: Small orders and outsourced items have lower on-time rates; large/repeat orders perform better. Consolidate small orders and prioritize low-complexity outsourcing.
 
-- Defect Rate: Raw Components (outsourced) have higher defects; strengthen QC and monitor vendor performance.
+- **Defect Rate:** Raw Components (outsourced) have higher defects; strengthen QC and monitor vendor performance.
 
 
 
