@@ -52,7 +52,8 @@ Review and improve the report
 ## 📊 Key Insights & Visualizations & Recomendation
 
 #### 1️⃣ Dashboard 1 Overview  
-<img width="1450" height="815" alt="image" src="https://github.com/user-attachments/assets/d5ef9859-d939-4e2f-b7f4-3b4c6d177f04" />
+<img width="1232" height="699" alt="image" src="https://github.com/user-attachments/assets/db35bb75-dd71-4de6-9b74-5cc54a8f288c" />
+
 
 ##### Insight 1:
 Production volume peaks in June–August and October–November which Aligh with seasonal demand Summer (outdoor activity, bicycle purchases) & Year-end holidays (Black Friday, Cyber Monday, Christmas, New Year). However, on-time delivery rate remains stable as having xtrong production management during these peak periods.
@@ -69,7 +70,8 @@ Week 4 average ontime rate is 23.67%, which is the lowest among all weeks as wee
 => Recommendation: Intensify defect controlling & monitoring during Week 2–3.
 
 #### 2️⃣ Dashboard 2 On-time rate by Product
-<img width="1450" height="814" alt="image" src="https://github.com/user-attachments/assets/b0ecacf8-2430-45f0-9426-63a06b08b078" />
+<img width="1224" height="701" alt="image" src="https://github.com/user-attachments/assets/19eae1d9-db5c-42f7-bf57-2e0a3a50c62f" />
+
 
 ##### Insight 1:
 Component has 82.97% of the delayed quantity and have the highest late quantity among categories despite making up only 21.44% of planned volume. Bike has 93.29% delay rate, though only 1.97% of total volume. => As Component is a material of Bike. Therefore, late component could lead late Bike
@@ -79,7 +81,8 @@ Increase safety stock for Components.
 Pre-produce Components to ensure timely Bike assembly.
 
 #### 3️⃣ Dashboard 3 On-time rate by Work order & Routing
-<img width="1440" height="796" alt="image" src="https://github.com/user-attachments/assets/bc7e773b-1fb3-40e7-ba36-72e8e84f6947" />
+<img width="1229" height="692" alt="image" src="https://github.com/user-attachments/assets/a58f2329-d74c-4343-97d1-28503124c1e5" />
+
 
 ##### Insight 1:
 Component: 1–3 in-house steps. Bike: 1 in-house step. Raw Component: 97.43% have 0 internal steps => Raw Component is mainly outsourced
@@ -99,7 +102,8 @@ Orders >4,000 units have nearly 100% on-time rate. These are mostly Raw Componen
 => Recommendation: Consider consolidating smaller orders into larger batches to improve planning and material management
 
 #### 4️⃣ Dashboard 4 Defect rate by Product & Work order & Routing
-<img width="1439" height="816" alt="image" src="https://github.com/user-attachments/assets/4d23210a-fc9f-48d8-a907-45c020f41e8d" />
+<img width="1232" height="698" alt="image" src="https://github.com/user-attachments/assets/d101847a-c877-4908-9053-a1d584784179" />
+
 
 ##### Insight 1: 
 Raw Component has 0.26% delay rate — higher than Component (0.21%) and Bike (0.18%) => Outsourced vendors may have lower quality control than in-house.
