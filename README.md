@@ -1,4 +1,4 @@
-# Monitoring On-Time Rate & Defect Rate for Adventure Works - Bike manufacturer using Power BI
+<img width="1216" height="681" alt="image" src="https://github.com/user-attachments/assets/347a61a1-9350-4a5d-96c1-7056f94bcd0f" /># Monitoring On-Time Rate & Defect Rate for Adventure Works - Bike manufacturer using Power BI
 ![Image](https://github.com/user-attachments/assets/503df5f3-2974-4a08-b4ef-8ce1d0a9408d)
 
 ---
@@ -51,8 +51,8 @@ Review and improve the report
 
 ## 📊 Key Insights & Visualizations & Recomendation
 
-#### 1️⃣ Dashboard 1 Overview  
-<img width="1232" height="699" alt="image" src="https://github.com/user-attachments/assets/db35bb75-dd71-4de6-9b74-5cc54a8f288c" />
+#### 1️⃣ Page 1 Overview  
+<img width="980" height="561" alt="image" src="https://github.com/user-attachments/assets/804b95b1-3b06-4283-a846-5cded5c137a4" />
 
 
 ##### Insight 1:
@@ -70,8 +70,8 @@ Week 4 average ontime rate is 23.67%, which is the lowest among all weeks as wee
 => **Recommendation:** Intensify defect controlling & monitoring during Week 2–3.
 
 ---
-#### 2️⃣ Dashboard 2 On-time rate by Product
-<img width="1224" height="701" alt="image" src="https://github.com/user-attachments/assets/19eae1d9-db5c-42f7-bf57-2e0a3a50c62f" />
+#### 2️⃣ Page 2 On-time rate by Product
+<img width="1210" height="688" alt="image" src="https://github.com/user-attachments/assets/50d7aed1-4613-461c-a08e-812684bbc09c" />
 
 
 ##### Insight 1:
@@ -83,8 +83,8 @@ Pre-produce Components to ensure timely Bike assembly.
 
 ---
 
-#### 3️⃣ Dashboard 3 On-time rate by Work order & Routing
-<img width="1229" height="692" alt="image" src="https://github.com/user-attachments/assets/a58f2329-d74c-4343-97d1-28503124c1e5" />
+#### 3️⃣ Page 3 On-time rate by Work order & Routing
+<img width="1216" height="681" alt="image" src="https://github.com/user-attachments/assets/fc0a72be-6578-422e-9b50-e194361c1d04" />
 
 
 ##### Insight 1:
@@ -106,8 +106,8 @@ Orders >4,000 units have nearly 100% on-time rate. These are mostly Raw Componen
 
 ---
 
-#### 4️⃣ Dashboard 4 Defect rate by Product & Work order & Routing
-<img width="1232" height="698" alt="image" src="https://github.com/user-attachments/assets/d101847a-c877-4908-9053-a1d584784179" />
+#### 4️⃣ Page 4 Defect rate by Product & Work order & Routing
+<img width="1208" height="692" alt="image" src="https://github.com/user-attachments/assets/817438c9-bf04-417b-8836-7ceb625c8e50" />
 
 
 ##### Insight 1: 
