@@ -1,4 +1,4 @@
-<img width="1216" height="681" alt="image" src="https://github.com/user-attachments/assets/347a61a1-9350-4a5d-96c1-7056f94bcd0f" /># Monitoring On-Time Rate & Defect Rate for Adventure Works - Bike manufacturer using Power BI
+# Monitoring On-Time Rate & Defect Rate for Adventure Works - Bike manufacturer using Power BI
 ![Image](https://github.com/user-attachments/assets/503df5f3-2974-4a08-b4ef-8ce1d0a9408d)
 
 ---
